@@ -37,7 +37,3 @@ Improved model performance from ~10% accuracy (baseline CNN) to ~86% test accura
 - torchvision
 - NumPy
 - OpenCV (Haar Cascades)
-
----
-
-## Project Structure
